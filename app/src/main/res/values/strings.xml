@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RoomDB</string>
+    <string name="title">Student Data</string>
+    <string name="hi_first_name">First Name</string>
+    <string name="hi_last_name">Last Name</string>
+    <string name="hi_roll_no">Roll No.</string>
+    <string name="btn_write">Write Data</string>
+    <string name="roll_no">Roll No.</string>
+    <string name="btn_read_data">Read Data</string>
+    <string name="btn_delete_all">Delete All</string>
+    <string name="btn_update_data">Update Data</string>
+</resources>
